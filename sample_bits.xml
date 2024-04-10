@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet type="text/xsl" href="bits2html.xsl"?>
+<book 
+	xml:lang="en"
+	xmlns:ali="http://www.niso.org/schemas/ali/1.0/"
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<book-meta>
+		<book-id book-id-type="doi">10.2775/3158</book-id>
+		<book-id book-id-type="Catalog number">NA-03-13-541-EN-C</book-id>
+		<book-title-group>
+			<book-title>Let ’s explore Europe!</book-title>
+		</book-title-group>
+		<pub-date>
+			<year>2013</year>
+		</pub-date>
+		<isbn>978-92-79-32925-8</isbn>
+	</book-meta>
+	<book-body>
+		<book-part>
+			<body>
+				<sec>
+					<title>The story of the European Union</title>
+					<p>The Second World War ended in 1945. It had been a time of terrible destruction and killing, and it had started in Europe. How could the leaders of European countries stop such dreadful things from ever happening again? They needed a really good plan that had never been tried before.</p>
+						<fig>
+							<caption>
+								<p>Robert Schuman.</p>
+							</caption>
+							<graphic id="f1" orientation="portrait" position="float" xlink:href="NA0313541ENC_002-1.jpg"/>
+						</fig>
+	
+				</sec>
+			</body>
+		</book-part>
+	</book-body>
+</book>
+
