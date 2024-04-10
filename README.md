@@ -1,2 +1,3 @@
-# omp_bits_viewer
-OMP BITS XML Viewer
+OJS/OMP Generic Plugin to View BITS XML Data
+
+
